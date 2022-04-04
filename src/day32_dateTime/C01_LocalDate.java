@@ -1,6 +1,7 @@
 package day32_dateTime;
 
 import java.time.LocalDate;
+import java.time.ZoneId;
 
 public class C01_LocalDate {
     public static void main(String[] args) {
@@ -20,7 +21,13 @@ public class C01_LocalDate {
 
         System.out.println(trh.plusMonths(9).plusDays(10));
 
+        //istedigimiz ulkenin o andaki tarihini elde etmek istersek
+        LocalDate trhZone=LocalDate.now(ZoneId.of("Asia"));
+        System.out.println(trhZone);
 
+        //is ile baslayan methodlar boolean sonuclar dondurur
+        System.out.println(LocalDate.now().isLeapYear()); //false
+        System.out.println(trh.isAfter(baskaTrh)); //true
         }
 
 
