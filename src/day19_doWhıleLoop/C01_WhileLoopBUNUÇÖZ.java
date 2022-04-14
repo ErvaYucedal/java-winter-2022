@@ -1,6 +1,6 @@
 package day19_doWhıleLoop;
 
-public class C01_WhileLoop {
+public class C01_WhileLoopBUNUÇÖZ {
     public static void main(String[] args) {
         //Kullanicidan bir sayi alin ve bu sayiyi tam bolen sayilari
         // ve toplam kac tane olduklarini ekranda yazdirin

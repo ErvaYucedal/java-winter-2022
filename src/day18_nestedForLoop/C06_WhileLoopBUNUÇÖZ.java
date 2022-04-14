@@ -1,6 +1,6 @@
 package day18_nestedForLoop;
 
-public class C06_WhileLoop {
+public class C06_WhileLoopBUNUÇÖZ {
     public static void main(String[] args) {
 
         //kullanicidan iki tamsayi alip
@@ -8,11 +8,7 @@ public class C06_WhileLoop {
 
         int baslangic=40;
         int bitis=60;
-         for (int i= baslangic; i<= bitis; i++){
-             System.out.print(i+ " ");
-         }
-        System.out.println("");
-         //ayni soruyu while loop ile yapalim
+
         int i=baslangic;
         while (i<=bitis){
             System.out.print(i+ " ");
@@ -24,3 +20,20 @@ public class C06_WhileLoop {
 
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+  // for (int i= baslangic; i<= bitis; i++){
+      //     System.out.print(i+ " ");
+        //   }
+          // System.out.println("");

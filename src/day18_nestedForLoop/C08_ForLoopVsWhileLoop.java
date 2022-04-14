@@ -44,6 +44,9 @@ public class C08_ForLoopVsWhileLoop {
 
         //baslangic, bitis ve degisim degerleri net olan durumlarda for loop daha avantajlidir,
 
+        //adim sayisi belli degilse while loop daha avantajlidir.
+
+
 
 
     }}

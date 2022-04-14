@@ -2,7 +2,7 @@ package day19_doWhıleLoop;
 
 import java.util.Scanner;
 
-public class C04_DoWhileLoop {
+public class C04_DoWhileLoopBUNUÇÖZ {
     public static void main(String[] args) {
         // Kullanicidan toplamak uzere pozitif sayilar isteyin,
         // islemi bitirmek icin 0’a basmasini soyleyin.

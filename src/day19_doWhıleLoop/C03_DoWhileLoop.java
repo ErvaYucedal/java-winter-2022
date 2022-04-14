@@ -9,12 +9,7 @@ public class C03_DoWhileLoop {
 
         int sayi=1;
 
-        while (sayi<input){
-            System.out.println(sayi);
-            sayi++;
 
-        }
-      //ayni soruyu do-while loop ile yapalim
         sayi=1;
         do {System.out.println(sayi);
             sayi++;
